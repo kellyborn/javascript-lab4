@@ -1,0 +1,15 @@
+.light-bulb {
+    background-color: gray;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    width: 10%;
+}
+
+.dark {
+    background-color: #808080;
+}
+
+.light {
+    background-color: #fafaaf;
+}
