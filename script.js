@@ -52,11 +52,12 @@ offBtn.addEventListener("click", () => {
     lightBulb.style.backgroundColor = "#808080";
 })
 toggleBtn.addEventListener("click", () => {
-    if (lightBulb.style.backgroundColor = "#fafaaf") {
-        lightBulb.toggle()
-        // } else (lightBulb.style.backgroundColor = "#808080") {
-        //     lightBulb.toggle()
-    }
+    //     if (lightBulb.style.backgroundColor = "#fafaaf")) {
+    //     lightBulb.classList.toggle();
+    // }
+    //     else (lightBulb.style.backgroundColor = "#808080")) {
+    //     lightBulb.classList.toggle();
+    // }
 })
 endBtn.addEventListener("click", () => {
     lightBulb.remove();
